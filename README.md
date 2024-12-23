@@ -123,4 +123,8 @@
 
 ## 클래스 설정
 
+* Product: 상품 객체
+* Promotion: 프로모션 객체
+* Receipt: 영수증 객체 
+* Store: 전체적인 객체 관리
 
